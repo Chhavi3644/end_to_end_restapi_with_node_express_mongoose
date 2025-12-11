@@ -1,0 +1,3 @@
+chdiwvedi_db_user     oqyGaML8B3kn9Ixs for mogodb
+
+mongodb+srv://chdiwvedi_db_user:<db_password>@chdproducts.rsuf8fl.mongodb.net/?appName=chdProducts
